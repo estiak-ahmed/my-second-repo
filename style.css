@@ -4,3 +4,8 @@ p{
 h1{
     background-color: chartreuse;
 }
+h2{
+    display: inline-block;
+    color: aqua;
+    background-color: chocolate;
+}
